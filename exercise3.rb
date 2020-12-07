@@ -28,10 +28,10 @@ y_value = gets.chomp
 #     puts "x is equal to y"
 # end 
 
-if x_value != 10
-    puts "i get printed"
-end
+# if x_value != 10
+#     puts "i get printed"
+# end
 
-unless x_value == 10
-    puts "I get printed"
-end 
+# unless x_value == 10
+#     puts "I get printed"
+# end 
